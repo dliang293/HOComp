@@ -1,4 +1,4 @@
-# HOComp: Interaction-Aware Human-Object Composition
+# HOComp: Interaction-Aware Human-Object Composition[NeurIPS 2025]
 
 This is the official repository for our paper:
 
